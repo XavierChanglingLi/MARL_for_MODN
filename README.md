@@ -10,5 +10,9 @@ Repository of code for reproducing the results of paper "Scaling up Energy-Aware
 ## Run Experiments
 ### for individual reward
    ```bash
-   python3 individual/
+   python3 individual reward/simulation.py --random_location=True --random_length=True
+   ```
+### for shared reward 
+   ```bash
+   python3 shared reward/simulation.py --random_location=True --random_length=True
    ```
