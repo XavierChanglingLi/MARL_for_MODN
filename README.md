@@ -7,4 +7,8 @@ Repository of code for reproducing the results of paper "Scaling up Energy-Aware
    pip3 install -r requirements.txt
    ```
 
-## Experiments
+## Run Experiments
+### for individual reward
+   ```bash
+   python3 individual/
+   ```
