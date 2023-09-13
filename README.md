@@ -1,7 +1,7 @@
 # MARL_for_MODN
 Code repository for reproducing the results of the paper "Scaling up Energy-Aware Multi-Agent Reinforcement Learning for Mission-Oriented Drone Networks with Individual Reward"
 
-## Installing Dependencies
+## Install Dependencies
   python version >=3.6
    ```bash
    pip3 install -r requirements.txt
